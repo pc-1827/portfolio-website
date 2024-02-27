@@ -1,0 +1,46 @@
+/* TODO Add site wide styles */
+.header-left {
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    padding: 20px;
+}
+
+.header-left li{
+    padding: 5px 35px;
+    font-family: "eurostile", sans-serif;
+    font-size: 20px;
+}
+
+.header-left li:hover{
+    color: blueviolet;
+}
+
+.resume{
+    color: blueviolet;
+    border: 1px solid blueviolet;
+    border-radius: 2px;
+    border-radius: 10%;
+}
+
+.front-page {
+    text-align: center;
+}
+
+.name {
+    font-size: 70px;
+    margin-top: 150px;
+    font-family: "eurostile", sans-serif;
+    font-weight: 800;
+}
+
+.description {
+    margin-top: 20px;
+    font-size: 30px;
+    font-family: "europa", sans-serif;
+}
+
+.projects-heading {
+    text-align: center;
+
+}
